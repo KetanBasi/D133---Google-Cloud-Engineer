@@ -2,4 +2,4 @@
 
 The project I use for the Dicoding submission
 
-Demo: TBA
+Demo: https://ketanbasi.github.io/D133---Google-Cloud-Engineer/
